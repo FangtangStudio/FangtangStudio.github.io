@@ -1,25 +1,14 @@
-# HPSTR Jekyll Theme
+# 方糖的个人博客
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.
+>“生平不事著述， 今惟存《臨證指南醫案》十卷， 亦其門人取其方藥治驗， 分門別類， 集為一書。” 
 
-## What HPSTR brings to the table:
 
-* Modern and minimal design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
-* [Available in Spanish](https://github.com/cruznick/hpstr-jekyll-theme/tree/es). Thanks [@cruznick](https://github.com/cruznick)!
+这是Fangtang的个人博客，大部分内容和计算机相关。
 
-![HPSTR Theme Preview screenshot](http://mmistakes.github.io/hpstr-jekyll-theme/images/hpstr-jekyll-theme-preview.jpg)
+作为程序猿，拜读过很多大牛的文章，收获颇多。每遇佳文，常有嫉妒之心。悔恨当初的懒惰，七年时光，未有一字一文留下。每每下定决定要笔录其事都不了了之。当时决心不可谓不坚决，信念不可谓不坚定。
 
----
+其实这个博客的目的在于监督自己，同时也做些总结。常言道：好记性不如烂笔头。
 
-## Getting Started
+曾经在网上翻来覆去地查询文档浏览博客，但是看了忘，忘了看。做了很多不必要的重复工作。这次下定决心维护好这个个人博客，算是对自己成长的记录吧。当回首往事，起码还知道自己读过哪些书，有过一些思考。
 
-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
-
-To learn how to install and use this theme check out the [Setup Guide](https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/) for more information.
+此博客采用的是[Michael Rose](http://jekyllthemes.org/themes/hpstr/)的一个开源主题。
