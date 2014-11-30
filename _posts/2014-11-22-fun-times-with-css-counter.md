@@ -10,8 +10,8 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 type: fanyi
 comments: true
-origin: http://codersblock.com/blog/fun-times-with-css-counters/
 ---
+[阅读原文(Read Will Boyd's original article)](http://codersblock.com/blog/fun-times-with-css-counters/)
 
 CSS计数器是“晕，竟不知道CSS可以做这啊”这类非常有趣的众多特性之一。简言之，用CSS使你持续某增加某个量，而无需JavaScript。
 
